@@ -1,0 +1,20 @@
+{
+  "id": "challenging",
+  "name": "Challenging Outbreak",
+  "description": "A more difficult scenario with multiple infection sites and higher R0.",
+  "seed": "challenging_2023",
+  "r0": 3.5,
+  "initial_infections": {
+    "capital": 50,
+    "major_city_1": 30,
+    "major_city_2": 20
+  },
+  "initial_resources": 700,
+  "difficulty": "challenging",
+  "parameters": {
+    "disease_mortality": 0.03,
+    "treatment_effectiveness": 0.6,
+    "vaccine_development_time": 150,
+    "economic_impact_factor": 1.2
+  }
+}

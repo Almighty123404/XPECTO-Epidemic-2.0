@@ -1,0 +1,10 @@
+{
+  "id": "e25c5d93-a5b6-4bfa-975a-dcafd0796aa3",
+  "name": "Standard Scenario",
+  "description": "A balanced scenario for testing",
+  "seed": 12345,
+  "r0": 2.5,
+  "initial_infections": 100,
+  "initial_resources": 5000,
+  "difficulty": "standard"
+}

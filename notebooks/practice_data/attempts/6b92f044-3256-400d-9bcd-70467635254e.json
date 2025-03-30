@@ -1,0 +1,2953 @@
+{
+  "id": "6b92f044-3256-400d-9bcd-70467635254e",
+  "player_id": "b1bd39bf-42ef-4ca4-b91d-04c03755020d",
+  "player_name": "Your Name",
+  "scenario_id": "standard",
+  "results": {
+    "player_id": "b1bd39bf-42ef-4ca4-b91d-04c03755020d",
+    "scenario_id": "standard",
+    "total_steps": 365,
+    "population_survived": 0.0,
+    "gdp_preserved": 0.02803450088541498,
+    "infection_control": 0.569445337025982,
+    "resource_efficiency": 0.284722668512991,
+    "time_to_containment": 0.8794520547945206,
+    "final_score": 0.2941,
+    "metadata": {},
+    "raw_metrics": {
+      "initial_population": 9998.273701784603,
+      "final_population": 56274589.43375646,
+      "dead_population": 3221838.370400362,
+      "initial_gdp": 997.68650625,
+      "final_gdp": 55.939286485664454,
+      "max_infection_rate": 0.43055466297401795,
+      "total_resources_spent": 0,
+      "containment_step": 44,
+      "total_steps": 365,
+      "metrics_history": [
+        {
+          "step": 0.0,
+          "total_population": 9998.273701784603,
+          "infected": 118.37215003746674,
+          "dead": 1.7262982153976418,
+          "gdp": 997.68650625,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 1.0,
+          "total_population": 9996.955459380479,
+          "infected": 135.0033258213918,
+          "dead": 3.0445406195220714,
+          "gdp": 993.7462472278349,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 2.0,
+          "total_population": 9995.605892326346,
+          "infected": 157.65799901693723,
+          "dead": 4.394107673655554,
+          "gdp": 988.3457018476024,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 3.0,
+          "total_population": 9993.569417454997,
+          "infected": 180.75968965855316,
+          "dead": 6.430582545003142,
+          "gdp": 981.6381621843493,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 4.0,
+          "total_population": 9991.70916560761,
+          "infected": 215.59897020424836,
+          "dead": 8.290834392390328,
+          "gdp": 973.7646885790251,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 5.0,
+          "total_population": 9990.148276178767,
+          "infected": 253.75766315913427,
+          "dead": 9.851723821234348,
+          "gdp": 964.8549985882875,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 6.0,
+          "total_population": 9988.571629118731,
+          "infected": 323.56644291763183,
+          "dead": 11.428370881270716,
+          "gdp": 955.0282942407468,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 7.0,
+          "total_population": 9986.6024201532,
+          "infected": 380.68120780286785,
+          "dead": 13.397579846799108,
+          "gdp": 944.3940317655957,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 8.0,
+          "total_population": 9984.893233973531,
+          "infected": 430.1006130303929,
+          "dead": 15.106766026470488,
+          "gdp": 933.052637683282,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 9.0,
+          "total_population": 9982.89050633034,
+          "infected": 494.65852587349536,
+          "dead": 17.109493669663735,
+          "gdp": 921.0961748896906,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 10.0,
+          "total_population": 9980.421375647153,
+          "infected": 599.0825439383785,
+          "dead": 19.57862435285113,
+          "gdp": 908.608962124023,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 11.0,
+          "total_population": 9975.86320477436,
+          "infected": 635.7513565164335,
+          "dead": 24.136795225643837,
+          "gdp": 894.875655571446,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 12.0,
+          "total_population": 9973.230602357227,
+          "infected": 708.8231551937882,
+          "dead": 26.769397642774504,
+          "gdp": 880.102023857838,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 13.0,
+          "total_population": 9969.807245639648,
+          "infected": 799.638203178641,
+          "dead": 30.192754360356414,
+          "gdp": 864.4700392064308,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 14.0,
+          "total_population": 9967.26102422662,
+          "infected": 868.3649792906292,
+          "dead": 32.73897577338302,
+          "gdp": 848.1404611226073,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 15.0,
+          "total_population": 9963.70822781811,
+          "infected": 930.5800286942764,
+          "dead": 36.291772181891915,
+          "gdp": 831.2955750808279,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 16.0,
+          "total_population": 9961.603911098515,
+          "infected": 1021.99018091621,
+          "dead": 38.39608890148728,
+          "gdp": 814.0909569967804,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 17.0,
+          "total_population": 9957.436518150815,
+          "infected": 1111.7167573456604,
+          "dead": 42.5634818491892,
+          "gdp": 796.6593667951894,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 18.0,
+          "total_population": 9952.634340036695,
+          "infected": 1290.6960826666393,
+          "dead": 47.3656599633082,
+          "gdp": 779.1140399815981,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 19.0,
+          "total_population": 9947.594935226687,
+          "infected": 1336.3976568274456,
+          "dead": 52.40506477331575,
+          "gdp": 761.5514772943236,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 20.0,
+          "total_population": 9940.858933616228,
+          "infected": 1448.020932509563,
+          "dead": 59.14106638377688,
+          "gdp": 744.053814920267,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 21.0,
+          "total_population": 9934.048408381677,
+          "infected": 1640.5696922531583,
+          "dead": 65.95159161832555,
+          "gdp": 726.6908434023727,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 22.0,
+          "total_population": 9929.646356848329,
+          "infected": 1844.4841606015927,
+          "dead": 70.35364315167445,
+          "gdp": 709.5217316310151,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 23.0,
+          "total_population": 9920.496525171133,
+          "infected": 2085.9479650753397,
+          "dead": 79.5034748288707,
+          "gdp": 692.596502701006,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 24.0,
+          "total_population": 9913.040429234341,
+          "infected": 2158.8816454611074,
+          "dead": 86.95957076566316,
+          "gdp": 675.9573005313376,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 25.0,
+          "total_population": 9907.711590555175,
+          "infected": 2315.418993606921,
+          "dead": 92.28840944483052,
+          "gdp": 659.639479664607,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 26.0,
+          "total_population": 9899.376257727567,
+          "infected": 2610.3590245827704,
+          "dead": 100.62374227243723,
+          "gdp": 643.6722449782296,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 27.0,
+          "total_population": 9886.783134348192,
+          "infected": 2824.7460860190495,
+          "dead": 113.21686565181186,
+          "gdp": 628.0795215163103,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 28.0,
+          "total_population": 9878.124069831892,
+          "infected": 3077.1550662931304,
+          "dead": 121.87593016811131,
+          "gdp": 612.8807027807552,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 29.0,
+          "total_population": 9870.268340171391,
+          "infected": 3158.041608738705,
+          "dead": 129.73165982861326,
+          "gdp": 598.0912962274668,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 30.0,
+          "total_population": 9856.78684797292,
+          "infected": 3368.0961520231403,
+          "dead": 143.21315202708325,
+          "gdp": 583.7089550099207,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 31.0,
+          "total_population": 9839.859293718637,
+          "infected": 3373.3045124064165,
+          "dead": 160.14070628136756,
+          "gdp": 569.722673648388,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 32.0,
+          "total_population": 9831.223207837596,
+          "infected": 3490.586527931006,
+          "dead": 168.77679216240801,
+          "gdp": 556.1216363021135,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 33.0,
+          "total_population": 9817.151962320473,
+          "infected": 3712.1322313236365,
+          "dead": 182.84803767953204,
+          "gdp": 542.8952244077668,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 34.0,
+          "total_population": 9803.567713823984,
+          "infected": 3795.440584256107,
+          "dead": 196.43228617601923,
+          "gdp": 530.033023042562,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 35.0,
+          "total_population": 9785.094642945418,
+          "infected": 3774.145915799678,
+          "dead": 214.90535705458598,
+          "gdp": 517.5248261241525,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 36.0,
+          "total_population": 9766.909106417239,
+          "infected": 3747.55356298524,
+          "dead": 233.09089358276603,
+          "gdp": 505.36064055115116,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 37.0,
+          "total_population": 9747.398034017147,
+          "infected": 3623.7974533968886,
+          "dead": 252.60196598285773,
+          "gdp": 493.53068938042856,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 38.0,
+          "total_population": 9728.441705476882,
+          "infected": 3506.5934665975747,
+          "dead": 271.5582945231233,
+          "gdp": 482.02541413017065,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 39.0,
+          "total_population": 9717.167109164766,
+          "infected": 3388.0252066638222,
+          "dead": 282.83289083523914,
+          "gdp": 470.8354762909902,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 40.0,
+          "total_population": 9699.771547943179,
+          "infected": 3254.085386842233,
+          "dead": 300.2284520568246,
+          "gdp": 459.9517581211602,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 41.0,
+          "total_population": 9680.555519495676,
+          "infected": 3577.6883106899313,
+          "dead": 319.4444805043275,
+          "gdp": 449.365362796238,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 42.0,
+          "total_population": 9660.766769060487,
+          "infected": 3813.617966688645,
+          "dead": 339.2332309395169,
+          "gdp": 439.06761397794844,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 43.0,
+          "total_population": 9643.085581601114,
+          "infected": 3991.2175564592612,
+          "dead": 356.9144183988915,
+          "gdp": 429.0500548621674,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 44.0,
+          "total_population": 9748.024677493093,
+          "infected": 4197.0574796804485,
+          "dead": 379.31411851208105,
+          "gdp": 419.3044467611734,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 45.0,
+          "total_population": 9972.349465982168,
+          "infected": 4200.215161750463,
+          "dead": 394.37479598592694,
+          "gdp": 409.8227672709813,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 46.0,
+          "total_population": 10264.729602052246,
+          "infected": 4293.9608353195135,
+          "dead": 412.96641441888124,
+          "gdp": 400.59720807052975,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 47.0,
+          "total_population": 10458.650706736851,
+          "infected": 4250.692496371027,
+          "dead": 433.5318192511096,
+          "gdp": 391.6201723957329,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 48.0,
+          "total_population": 10751.207749715031,
+          "infected": 4339.264769133688,
+          "dead": 449.8202610834676,
+          "gdp": 382.8842722279129,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 49.0,
+          "total_population": 10982.597817309654,
+          "infected": 4342.192650048486,
+          "dead": 472.01609695177757,
+          "gdp": 374.3823252328854,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 50.0,
+          "total_population": 11230.479857388487,
+          "infected": 4365.788211629068,
+          "dead": 492.28053248906446,
+          "gdp": 366.1073514839562,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 51.0,
+          "total_population": 11493.085894010306,
+          "infected": 4408.281238406595,
+          "dead": 516.9784906671877,
+          "gdp": 358.0251006733877,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 52.0,
+          "total_population": 11800.83900296964,
+          "infected": 4503.186691981921,
+          "dead": 529.6509905232274,
+          "gdp": 350.13170190329373,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 53.0,
+          "total_population": 12073.008367587756,
+          "infected": 4544.427800970122,
+          "dead": 543.1077484717466,
+          "gdp": 342.42327318405955,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 54.0,
+          "total_population": 12307.173211587222,
+          "infected": 4536.157971388097,
+          "dead": 568.1949111185131,
+          "gdp": 334.89593167216555,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 55.0,
+          "total_population": 12632.00961743909,
+          "infected": 4645.111475096165,
+          "dead": 585.223672778875,
+          "gdp": 327.5458028535299,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 56.0,
+          "total_population": 12875.757663986114,
+          "infected": 4641.200566920665,
+          "dead": 607.9898081388993,
+          "gdp": 320.36902875781055,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 57.0,
+          "total_population": 13222.747115595397,
+          "infected": 4773.299508960715,
+          "dead": 631.0919528105176,
+          "gdp": 313.3617752828054,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 58.0,
+          "total_population": 13508.103716691992,
+          "infected": 4816.092653098598,
+          "dead": 658.4791400369851,
+          "gdp": 306.52023870223263,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 59.0,
+          "total_population": 13784.877891290082,
+          "infected": 4844.405375614485,
+          "dead": 685.9006824179719,
+          "gdp": 299.84065142472616,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 60.0,
+          "total_population": 14210.186524673267,
+          "infected": 5063.6352576449,
+          "dead": 706.8375928165678,
+          "gdp": 293.3192870668195,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 61.0,
+          "total_population": 14472.417979085118,
+          "infected": 5053.053111266958,
+          "dead": 728.3998359014045,
+          "gdp": 286.9524648979863,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 62.0,
+          "total_population": 14742.747916633227,
+          "infected": 5054.613447690722,
+          "dead": 752.7676158569573,
+          "gdp": 280.7365537114338,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 63.0,
+          "total_population": 15193.282634875017,
+          "infected": 5290.030906348897,
+          "dead": 769.4582519674161,
+          "gdp": 274.667975170286,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 64.0,
+          "total_population": 15548.581244735255,
+          "infected": 5386.4604839408485,
+          "dead": 795.621519201499,
+          "gdp": 268.74320667501917,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 65.0,
+          "total_population": 15946.484167257317,
+          "infected": 5529.066509975307,
+          "dead": 813.2162165720016,
+          "gdp": 262.95878379451165,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 66.0,
+          "total_population": 16320.665415371752,
+          "infected": 5629.6314237007045,
+          "dead": 828.8812482936619,
+          "gdp": 257.31130229981613,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 67.0,
+          "total_population": 16695.556527740515,
+          "infected": 5726.02118227033,
+          "dead": 851.667997248665,
+          "gdp": 251.79741983674532,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 68.0,
+          "total_population": 17057.44229324122,
+          "infected": 5798.1932338510605,
+          "dead": 873.9547802796478,
+          "gdp": 246.4138572705594,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 69.0,
+          "total_population": 17461.39349231502,
+          "infected": 5919.738142526618,
+          "dead": 894.7568515389698,
+          "gdp": 241.15739973344594,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 70.0,
+          "total_population": 17884.296307929497,
+          "infected": 6061.390207652038,
+          "dead": 928.7841885386439,
+          "gdp": 236.02489740307107,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 71.0,
+          "total_population": 18330.17430312196,
+          "infected": 6218.2475185937255,
+          "dead": 947.868930896635,
+          "gdp": 231.0132660382454,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 72.0,
+          "total_population": 18694.133342390756,
+          "infected": 6260.284568523902,
+          "dead": 979.1574321580945,
+          "gdp": 226.11948729567658,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 73.0,
+          "total_population": 19038.554285739963,
+          "infected": 6275.208447104537,
+          "dead": 1015.5488748339578,
+          "gdp": 221.34060884985735,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 74.0,
+          "total_population": 19498.45367793919,
+          "infected": 6435.369073240859,
+          "dead": 1036.6487097980805,
+          "gdp": 216.67374433636041,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 75.0,
+          "total_population": 19979.82753340613,
+          "infected": 6614.889682371976,
+          "dead": 1066.923127633354,
+          "gdp": 212.116073137161,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 76.0,
+          "total_population": 20433.785064546428,
+          "infected": 6742.309467147798,
+          "dead": 1086.5539183624317,
+          "gdp": 207.66484002508184,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 77.0,
+          "total_population": 20932.731519045185,
+          "infected": 6919.680671506485,
+          "dead": 1107.25154294583,
+          "gdp": 203.31735468304183,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 78.0,
+          "total_population": 21537.57439738982,
+          "infected": 7223.761488545953,
+          "dead": 1131.279353157251,
+          "gdp": 199.07099111248186,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 79.0,
+          "total_population": 22035.143437552855,
+          "infected": 7368.864533935172,
+          "dead": 1165.541036915438,
+          "gdp": 194.92318694413083,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 80.0,
+          "total_population": 22574.307208908256,
+          "infected": 7559.696669907795,
+          "dead": 1205.794858756608,
+          "gdp": 190.87144266315593,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 81.0,
+          "total_population": 23068.618821792876,
+          "infected": 7672.701381471583,
+          "dead": 1228.3099330139282,
+          "gdp": 186.91332075970695,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 82.0,
+          "total_population": 23509.444443973738,
+          "infected": 7714.062983833533,
+          "dead": 1271.7998936262893,
+          "gdp": 183.04644481490868,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 83.0,
+          "total_population": 24057.946601974763,
+          "infected": 7891.312802315609,
+          "dead": 1309.59768101189,
+          "gdp": 179.2684985314712,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 84.0,
+          "total_population": 24523.733279315038,
+          "infected": 7945.015210250113,
+          "dead": 1338.551298947555,
+          "gdp": 175.57722471727448,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 85.0,
+          "total_population": 25024.56687369326,
+          "infected": 8044.196203675707,
+          "dead": 1379.373034470268,
+          "gdp": 171.9704242295291,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 86.0,
+          "total_population": 25612.89641929137,
+          "infected": 8252.146069052447,
+          "dead": 1425.7083973889253,
+          "gdp": 168.44595488642275,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 87.0,
+          "total_population": 26076.512474819712,
+          "infected": 8279.790823728154,
+          "dead": 1463.9291712008442,
+          "gdp": 165.00173035252018,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 88.0,
+          "total_population": 26733.55910876682,
+          "infected": 8556.854729720833,
+          "dead": 1498.6652123320355,
+          "gdp": 161.63571900359622,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 89.0,
+          "total_population": 27281.5055732772,
+          "infected": 8673.088537481517,
+          "dead": 1538.3338172605188,
+          "gdp": 158.3459427760365,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 90.0,
+          "total_population": 27830.99561256779,
+          "infected": 8784.719027940006,
+          "dead": 1583.8461349453105,
+          "gdp": 155.1304760054422,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 91.0,
+          "total_population": 28467.958312312898,
+          "infected": 8998.178439217863,
+          "dead": 1615.3903797021594,
+          "gdp": 151.98744425861258,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 92.0,
+          "total_population": 29033.472363913068,
+          "infected": 9107.099260429206,
+          "dead": 1660.2257598244148,
+          "gdp": 148.91502316265868,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 93.0,
+          "total_population": 29737.067670779914,
+          "infected": 9386.672312940726,
+          "dead": 1699.6731059660067,
+          "gdp": 145.9114372346103,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 94.0,
+          "total_population": 30424.91353929908,
+          "infected": 9624.417561456046,
+          "dead": 1735.1861793396868,
+          "gdp": 142.9749587145234,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 95.0,
+          "total_population": 31130.281815759285,
+          "infected": 9870.619502646243,
+          "dead": 1779.52092669392,
+          "gdp": 140.10390640476555,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 96.0,
+          "total_population": 31901.671759421715,
+          "infected": 10182.164230272487,
+          "dead": 1813.7320984565476,
+          "gdp": 137.296644517859,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 97.0,
+          "total_population": 32901.640322739346,
+          "infected": 10774.530984309964,
+          "dead": 1864.5997511047894,
+          "gdp": 134.55158153498348,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 98.0,
+          "total_population": 33681.462151285166,
+          "infected": 11037.432428618436,
+          "dead": 1915.7299563907513,
+          "gdp": 131.86716907699096,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 99.0,
+          "total_population": 34591.320444083576,
+          "infected": 11446.020591965624,
+          "dead": 1950.4451508745326,
+          "gdp": 129.24190078955291,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 100.0,
+          "total_population": 35220.38755119652,
+          "infected": 11461.994325804813,
+          "dead": 1994.3635960897318,
+          "gdp": 126.6743112438511,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 101.0,
+          "total_population": 36145.77235764407,
+          "infected": 11860.635125186802,
+          "dead": 2030.3013607477071,
+          "gdp": 124.1629748540307,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 102.0,
+          "total_population": 37085.43091580261,
+          "infected": 12258.023411946811,
+          "dead": 2094.990696078526,
+          "gdp": 121.70650481245941,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 103.0,
+          "total_population": 37923.29704983261,
+          "infected": 12486.081379215904,
+          "dead": 2132.841936541341,
+          "gdp": 119.30355204367703,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 104.0,
+          "total_population": 38702.855056104585,
+          "infected": 12623.05677435716,
+          "dead": 2174.986398455705,
+          "gdp": 116.95280417777509,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 105.0,
+          "total_population": 39633.527201205754,
+          "infected": 12950.850568007816,
+          "dead": 2229.4974652550763,
+          "gdp": 114.65298454381468,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 106.0,
+          "total_population": 40459.9536028959,
+          "infected": 13120.148257019284,
+          "dead": 2286.878644125845,
+          "gdp": 112.40285118377109,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 107.0,
+          "total_population": 41294.58350165454,
+          "infected": 13286.119750205631,
+          "dead": 2338.2122402387886,
+          "gdp": 110.20119588738645,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 108.0,
+          "total_population": 42403.66254809978,
+          "infected": 13796.222119549495,
+          "dead": 2384.525023396508,
+          "gdp": 108.0468432482135,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 109.0,
+          "total_population": 43526.49828465901,
+          "infected": 14287.729017713827,
+          "dead": 2430.9319510672485,
+          "gdp": 105.9386497410462,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 110.0,
+          "total_population": 44281.4617094784,
+          "infected": 14264.621248457444,
+          "dead": 2476.8548328757583,
+          "gdp": 103.87550282085336,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 111.0,
+          "total_population": 45062.87499078877,
+          "infected": 14287.89798092292,
+          "dead": 2556.9754678103795,
+          "gdp": 101.85632004326082,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 112.0,
+          "total_population": 45933.2038368982,
+          "infected": 14423.935293030629,
+          "dead": 2632.728615202073,
+          "gdp": 99.8800482065643,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 113.0,
+          "total_population": 46710.68322130649,
+          "infected": 14427.307049981777,
+          "dead": 2702.09666103005,
+          "gdp": 97.94566251519744,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 114.0,
+          "total_population": 47637.93864115351,
+          "infected": 14619.42746441991,
+          "dead": 2751.585010640011,
+          "gdp": 96.05216576453051,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 115.0,
+          "total_population": 48815.53535868799,
+          "infected": 15128.943755232613,
+          "dead": 2818.164261808805,
+          "gdp": 94.19858754682917,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 116.0,
+          "total_population": 50107.7462166431,
+          "infected": 15755.069005400781,
+          "dead": 2897.4529705046334,
+          "gdp": 92.38398347816414,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 117.0,
+          "total_population": 51325.92978769117,
+          "infected": 16243.084670273398,
+          "dead": 2987.0465029889515,
+          "gdp": 90.60743444602755,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 118.0,
+          "total_population": 52595.42280313305,
+          "infected": 16763.987450756882,
+          "dead": 3080.0482748960367,
+          "gdp": 88.86804587738175,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 119.0,
+          "total_population": 53796.92402681982,
+          "infected": 17145.33202620324,
+          "dead": 3127.6046854053247,
+          "gdp": 87.16494702683954,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 120.0,
+          "total_population": 54929.12621786281,
+          "infected": 17423.336772144936,
+          "dead": 3222.217870951466,
+          "gdp": 85.49729028465322,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 121.0,
+          "total_population": 56072.3065450173,
+          "infected": 17684.464830803674,
+          "dead": 3279.6324919677204,
+          "gdp": 83.86425050416925,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 122.0,
+          "total_population": 57101.0906177173,
+          "infected": 17791.41325093128,
+          "dead": 3381.691012930362,
+          "gdp": 82.26502434839034,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 123.0,
+          "total_population": 58475.15244967613,
+          "infected": 18326.790266340882,
+          "dead": 3439.5485550728176,
+          "gdp": 80.69882965527236,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 124.0,
+          "total_population": 60166.92949904865,
+          "infected": 19245.024462920916,
+          "dead": 3522.6176243839927,
+          "gdp": 79.16490482137309,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 125.0,
+          "total_population": 61520.15234358378,
+          "infected": 19652.48197184551,
+          "dead": 3591.098217997552,
+          "gdp": 77.66250820346046,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 126.0,
+          "total_population": 62893.15836864614,
+          "infected": 20068.43705798577,
+          "dead": 3699.1392590975415,
+          "gdp": 76.19091753768208,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 127.0,
+          "total_population": 64505.09712322283,
+          "infected": 20756.999995883332,
+          "dead": 3778.713334857924,
+          "gdp": 74.74942937589192,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 128.0,
+          "total_population": 66553.50665021558,
+          "infected": 21959.53507680335,
+          "dead": 3842.290515643111,
+          "gdp": 73.33735853872797,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 129.0,
+          "total_population": 68563.65810218576,
+          "infected": 23027.7893497259,
+          "dead": 3910.8884544945727,
+          "gdp": 71.95403758503193,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 130.0,
+          "total_population": 70138.42742348013,
+          "infected": 23460.072098102613,
+          "dead": 4002.851081471457,
+          "gdp": 70.59881629720239,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 131.0,
+          "total_population": 72172.08001694709,
+          "infected": 24452.99034920737,
+          "dead": 4076.3079777337657,
+          "gdp": 69.27106118207334,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 132.0,
+          "total_population": 74181.2721181846,
+          "infected": 25360.8465011605,
+          "dead": 4208.803864653483,
+          "gdp": 67.97015498691172,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 133.0,
+          "total_population": 76233.43060767128,
+          "infected": 26243.314284397515,
+          "dead": 4287.008120068394,
+          "gdp": 66.6954962301311,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 134.0,
+          "total_population": 77567.29378821695,
+          "infected": 26147.649605683895,
+          "dead": 4430.457002023552,
+          "gdp": 65.44649874632123,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 135.0,
+          "total_population": 79269.34151106817,
+          "infected": 26536.719454446124,
+          "dead": 4570.220444476893,
+          "gdp": 64.22259124519854,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 136.0,
+          "total_population": 81161.7804301116,
+          "infected": 27148.98863458084,
+          "dead": 4721.074756087664,
+          "gdp": 63.023216884087326,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 137.0,
+          "total_population": 83424.06253359647,
+          "infected": 28195.873276137594,
+          "dead": 4862.720271604469,
+          "gdp": 61.84783285354653,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 138.0,
+          "total_population": 85329.10504333246,
+          "infected": 28706.75556054423,
+          "dead": 5016.51058639087,
+          "gdp": 60.695909975763975,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 139.0,
+          "total_population": 87021.74890935076,
+          "infected": 28883.810662655607,
+          "dead": 5100.789347337259,
+          "gdp": 59.56693231534553,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 140.0,
+          "total_population": 88947.67198666409,
+          "infected": 29356.103275025027,
+          "dead": 5199.866717244726,
+          "gdp": 58.460396802134035,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 141.0,
+          "total_population": 90931.2947955054,
+          "infected": 29880.685788593233,
+          "dead": 5335.594415798606,
+          "gdp": 57.37581286569975,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 142.0,
+          "total_population": 93001.73987936821,
+          "infected": 30466.371830143013,
+          "dead": 5423.785458906006,
+          "gdp": 56.312702081151414,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 143.0,
+          "total_population": 95137.94810159919,
+          "infected": 31106.264394504444,
+          "dead": 5547.073030358859,
+          "gdp": 55.27059782592463,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 144.0,
+          "total_population": 98163.88269348639,
+          "infected": 32862.62090203922,
+          "dead": 5686.429685376305,
+          "gdp": 54.249044947212006,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 145.0,
+          "total_population": 100475.58065782796,
+          "infected": 33561.75084259618,
+          "dead": 5817.2107672409375,
+          "gdp": 53.24759943970713,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 146.0,
+          "total_population": 102437.2880937639,
+          "infected": 33757.40251297625,
+          "dead": 5953.966475127102,
+          "gdp": 52.26582813334264,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 147.0,
+          "total_population": 105091.47790876997,
+          "infected": 34848.17673446248,
+          "dead": 6118.639370399452,
+          "gdp": 51.3033083907102,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 148.0,
+          "total_population": 107419.75797890223,
+          "infected": 35441.692527053216,
+          "dead": 6298.790381346351,
+          "gdp": 50.35962781385858,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 149.0,
+          "total_population": 110215.66929303974,
+          "infected": 36599.93520585687,
+          "dead": 6475.386645940774,
+          "gdp": 49.43438396017353,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 150.0,
+          "total_population": 113544.19036127295,
+          "infected": 38372.35366248796,
+          "dead": 6666.023736419693,
+          "gdp": 48.52718406705146,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 151.0,
+          "total_population": 116419.35698892915,
+          "infected": 39408.12830091682,
+          "dead": 6789.165217408071,
+          "gdp": 47.63764478508649,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 152.0,
+          "total_population": 118802.66702198115,
+          "infected": 39743.55138951647,
+          "dead": 6956.987084172447,
+          "gdp": 46.765391919498555,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 153.0,
+          "total_population": 122099.90695115225,
+          "infected": 41237.463741838474,
+          "dead": 7104.2871516033065,
+          "gdp": 45.91006017953746,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 154.0,
+          "total_population": 125924.6945528714,
+          "infected": 43337.49580395148,
+          "dead": 7340.663552089648,
+          "gdp": 45.0712929356061,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 155.0,
+          "total_population": 129207.89159099094,
+          "infected": 44568.89267883042,
+          "dead": 7529.909016122749,
+          "gdp": 44.24874198385296,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 156.0,
+          "total_population": 132612.8977548551,
+          "infected": 45891.395720537526,
+          "dead": 7788.076078482978,
+          "gdp": 43.44206731799168,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 157.0,
+          "total_population": 135468.98793189516,
+          "infected": 46396.880354062916,
+          "dead": 8017.6407148958515,
+          "gdp": 42.65093690811284,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 158.0,
+          "total_population": 139032.22617362306,
+          "infected": 47779.093391600596,
+          "dead": 8224.69540642356,
+          "gdp": 41.875026486259955,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 159.0,
+          "total_population": 143706.7116138674,
+          "infected": 50493.30446401671,
+          "dead": 8383.902283704834,
+          "gdp": 41.11401933854901,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 160.0,
+          "total_population": 147660.08428440016,
+          "infected": 52076.887455474585,
+          "dead": 8546.849073373427,
+          "gdp": 40.36760610361747,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 161.0,
+          "total_population": 151134.8506267347,
+          "infected": 52922.24186214271,
+          "dead": 8701.027900167379,
+          "gdp": 39.63548457719553,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 162.0,
+          "total_population": 154136.3499807367,
+          "infected": 53126.1600571302,
+          "dead": 8969.919984194374,
+          "gdp": 38.91735952259887,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 163.0,
+          "total_population": 157491.04673507917,
+          "infected": 53763.23416506638,
+          "dead": 9200.418077357703,
+          "gdp": 38.21294248694872,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 164.0,
+          "total_population": 161676.6609780807,
+          "infected": 55437.13134216509,
+          "dead": 9437.061461959996,
+          "gdp": 37.521951622930935,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 165.0,
+          "total_population": 165292.1644533715,
+          "infected": 56258.948207800975,
+          "dead": 9703.405949042313,
+          "gdp": 36.844111515912395,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 166.0,
+          "total_population": 170359.4068471432,
+          "infected": 58906.561117221805,
+          "dead": 9958.872823755715,
+          "gdp": 36.17915301623846,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 167.0,
+          "total_population": 174195.77225007172,
+          "infected": 59744.56678862713,
+          "dead": 10148.355223960025,
+          "gdp": 35.526813076541316,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 168.0,
+          "total_population": 179523.26082569736,
+          "infected": 62455.670745788375,
+          "dead": 10317.912504710355,
+          "gdp": 34.88683459389458,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 169.0,
+          "total_population": 183881.6560304224,
+          "infected": 63733.498903675245,
+          "dead": 10556.064393218898,
+          "gdp": 34.258966256654816,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 170.0,
+          "total_population": 188670.38021703484,
+          "infected": 65501.231488500634,
+          "dead": 10866.351193443861,
+          "gdp": 33.64296239583629,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 171.0,
+          "total_population": 192827.36184461525,
+          "infected": 66302.89210441044,
+          "dead": 11115.784210451202,
+          "gdp": 33.03858284087005,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 172.0,
+          "total_population": 198190.2374415602,
+          "infected": 68599.7231322199,
+          "dead": 11313.431349351858,
+          "gdp": 32.44559277960364,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 173.0,
+          "total_population": 202969.67475181477,
+          "infected": 69998.0709133111,
+          "dead": 11591.939193055892,
+          "gdp": 31.863762622402607,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 174.0,
+          "total_population": 209844.9757774914,
+          "infected": 74035.94646270481,
+          "dead": 11917.86851741154,
+          "gdp": 31.29286787021951,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 175.0,
+          "total_population": 215330.7094168709,
+          "infected": 75975.16175876574,
+          "dead": 12232.66430793366,
+          "gdp": 30.732688986500943,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 176.0,
+          "total_population": 221532.9319002867,
+          "infected": 78697.61080835831,
+          "dead": 12514.759953093795,
+          "gdp": 30.18301127280717,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 177.0,
+          "total_population": 228205.6734061787,
+          "infected": 81854.27614438796,
+          "dead": 12853.28908471482,
+          "gdp": 29.643624748023612,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 178.0,
+          "total_population": 234590.07148094295,
+          "infected": 84435.11828513323,
+          "dead": 13273.872461681838,
+          "gdp": 29.11432403104726,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 179.0,
+          "total_population": 240087.30708558386,
+          "infected": 85641.59651502302,
+          "dead": 13573.106535026795,
+          "gdp": 28.5949082268353,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 180.0,
+          "total_population": 245131.82543153653,
+          "infected": 86191.5342180013,
+          "dead": 13933.37231752041,
+          "gdp": 28.085180815706995,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 181.0,
+          "total_population": 252367.0597647091,
+          "infected": 89585.1575046747,
+          "dead": 14408.876630301911,
+          "gdp": 27.584949545793677,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 182.0,
+          "total_population": 259751.4161342625,
+          "infected": 92914.41790526034,
+          "dead": 14831.788322949356,
+          "gdp": 27.094026328535275,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 183.0,
+          "total_population": 266500.2882525446,
+          "infected": 95158.97474950974,
+          "dead": 15186.15313627794,
+          "gdp": 26.612227137125398,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 184.0,
+          "total_population": 274399.01404922607,
+          "infected": 98754.8472351557,
+          "dead": 15596.007075063122,
+          "gdp": 26.139371907810286,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 185.0,
+          "total_population": 282749.61613863043,
+          "infected": 102690.57729155416,
+          "dead": 16036.644471861557,
+          "gdp": 25.675284443950275,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 186.0,
+          "total_population": 291462.34971526824,
+          "infected": 106773.72539459007,
+          "dead": 16336.587884597142,
+          "gdp": 25.21979232275551,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 187.0,
+          "total_population": 300362.33365835453,
+          "infected": 110890.04179619059,
+          "dead": 16907.785577461014,
+          "gdp": 24.77272680461081,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 188.0,
+          "total_population": 310802.68597547413,
+          "infected": 116695.79236989644,
+          "dead": 17414.94522581449,
+          "gdp": 24.33392274490744,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 189.0,
+          "total_population": 319558.58537179336,
+          "infected": 119936.98198241326,
+          "dead": 18056.261795279635,
+          "gdp": 23.90321850830242,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 190.0,
+          "total_population": 327821.5681441386,
+          "infected": 122321.2692143017,
+          "dead": 18749.34276608,
+          "gdp": 23.480455885328734,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 191.0,
+          "total_population": 335923.33760021476,
+          "infected": 124308.49594348199,
+          "dead": 19385.4520868894,
+          "gdp": 23.065480011282506,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 192.0,
+          "total_population": 344400.5716159354,
+          "infected": 126653.19112014282,
+          "dead": 20059.221635943883,
+          "gdp": 22.65813928731567,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 193.0,
+          "total_population": 354305.1803841367,
+          "infected": 130630.59188898909,
+          "dead": 20547.89570420281,
+          "gdp": 22.258285303665254,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 194.0,
+          "total_population": 364683.33314833126,
+          "infected": 134988.8267818077,
+          "dead": 21200.885933807982,
+          "gdp": 21.865772764952673,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 195.0,
+          "total_population": 373003.58245009836,
+          "infected": 136289.45239336177,
+          "dead": 21618.285300636846,
+          "gdp": 21.48045941748874,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 196.0,
+          "total_population": 383151.5307532224,
+          "infected": 139930.20597729363,
+          "dead": 22225.051295303077,
+          "gdp": 21.102205978522395,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 197.0,
+          "total_population": 392572.3784677464,
+          "infected": 142323.3671591213,
+          "dead": 22691.309018684093,
+          "gdp": 20.730876067373195,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 198.0,
+          "total_population": 405261.1815704434,
+          "infected": 148804.65188129235,
+          "dead": 23192.171456297925,
+          "gdp": 20.36633613838973,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 199.0,
+          "total_population": 418020.9251323876,
+          "infected": 155008.87936615793,
+          "dead": 24005.31186967751,
+          "gdp": 20.008455415678018,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 200.0,
+          "total_population": 432726.5901112172,
+          "infected": 163260.55843416532,
+          "dead": 24687.69780239952,
+          "gdp": 19.657105829546033,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 201.0,
+          "total_population": 445580.2111996846,
+          "infected": 168581.70921665634,
+          "dead": 25592.636598119516,
+          "gdp": 19.433186393160856,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 202.0,
+          "total_population": 457016.4421004818,
+          "infected": 171645.55665992651,
+          "dead": 26382.884933960642,
+          "gdp": 19.325718772738924,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 203.0,
+          "total_population": 468694.0171773804,
+          "infected": 174759.7004461625,
+          "dead": 27024.57321035945,
+          "gdp": 19.32446961783319,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 204.0,
+          "total_population": 481705.4655795308,
+          "infected": 179342.9703162142,
+          "dead": 27524.47312800859,
+          "gdp": 19.419904482254555,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 205.0,
+          "total_population": 496281.6969390135,
+          "infected": 185645.68147527555,
+          "dead": 28066.05111840685,
+          "gdp": 19.603144458975578,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 206.0,
+          "total_population": 507299.6538840624,
+          "infected": 186868.1359870039,
+          "dead": 28594.466098776506,
+          "gdp": 19.86592537402062,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 207.0,
+          "total_population": 519663.8181052446,
+          "infected": 189781.3770014092,
+          "dead": 29216.0591613856,
+          "gdp": 20.200559393009424,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 208.0,
+          "total_population": 538195.1506507748,
+          "infected": 200556.07342635415,
+          "dead": 30010.18911801718,
+          "gdp": 20.59989890220777,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 209.0,
+          "total_population": 555573.4028481295,
+          "infected": 209153.30664850245,
+          "dead": 31108.603043441,
+          "gdp": 21.057302533674573,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 210.0,
+          "total_population": 571493.8240239222,
+          "infected": 215236.5254253339,
+          "dead": 32191.736081832238,
+          "gdp": 21.566603211404825,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 211.0,
+          "total_population": 587607.5573577341,
+          "infected": 221136.25367525197,
+          "dead": 33274.04505675932,
+          "gdp": 22.122078102274468,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 212.0,
+          "total_population": 606860.2133999697,
+          "infected": 230687.42840159198,
+          "dead": 34329.98588763047,
+          "gdp": 22.718420362119357,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 213.0,
+          "total_population": 623410.2658507802,
+          "infected": 235946.28878490702,
+          "dead": 35064.41993310957,
+          "gdp": 23.35071257344604,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 214.0,
+          "total_population": 639895.5756352439,
+          "infected": 240840.1780655621,
+          "dead": 36115.034467742335,
+          "gdp": 24.014401777097063,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 215.0,
+          "total_population": 655646.7595922085,
+          "infected": 244379.31854239886,
+          "dead": 36996.56580876249,
+          "gdp": 24.70527600569658,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 216.0,
+          "total_population": 675642.0061958518,
+          "infected": 253327.480555324,
+          "dead": 38359.0886179605,
+          "gdp": 25.419442231900334,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 217.0,
+          "total_population": 696911.1826320903,
+          "infected": 263308.70989052585,
+          "dead": 39775.22943548815,
+          "gdp": 26.153305649384848,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 218.0,
+          "total_population": 714217.5499877818,
+          "infected": 267342.34018505586,
+          "dead": 40915.622632037725,
+          "gdp": 26.903550209148857,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 219.0,
+          "total_population": 729525.9817730738,
+          "infected": 268380.7494598643,
+          "dead": 41690.591543723356,
+          "gdp": 27.66712033808135,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 220.0,
+          "total_population": 751802.108619773,
+          "infected": 278436.1419332459,
+          "dead": 42574.98825412986,
+          "gdp": 28.44120377088837,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 221.0,
+          "total_population": 774195.4563459681,
+          "infected": 288091.1220882193,
+          "dead": 44010.90016849517,
+          "gdp": 29.223215430378744,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 222.0,
+          "total_population": 799389.839376738,
+          "infected": 300638.3445861703,
+          "dead": 45248.34732565645,
+          "gdp": 30.010782294799636,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 223.0,
+          "total_population": 825689.1612486315,
+          "infected": 313786.3471850056,
+          "dead": 46687.72085043259,
+          "gdp": 30.801729194398046,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 224.0,
+          "total_population": 851735.3269580158,
+          "infected": 325693.7569531068,
+          "dead": 48219.45150428496,
+          "gdp": 31.59406548267544,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 225.0,
+          "total_population": 874826.9850322236,
+          "infected": 332874.6330647725,
+          "dead": 49634.60731837138,
+          "gdp": 32.38597253091041,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 226.0,
+          "total_population": 906122.4137120495,
+          "infected": 350104.1330238051,
+          "dead": 50704.32167448574,
+          "gdp": 33.17579199745829,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 227.0,
+          "total_population": 936136.680627347,
+          "infected": 364565.9816794176,
+          "dead": 52202.7663831642,
+          "gdp": 33.96201482610713,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 228.0,
+          "total_population": 960151.3870884709,
+          "infected": 370280.45287356694,
+          "dead": 53985.5331925582,
+          "gdp": 34.74327093038452,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 229.0,
+          "total_population": 987946.3341241891,
+          "infected": 380387.01036761404,
+          "dead": 55387.85249785053,
+          "gdp": 35.51831952317912,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 230.0,
+          "total_population": 1020881.0729154493,
+          "infected": 396540.5121157674,
+          "dead": 57080.05930993745,
+          "gdp": 36.28604005337115,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 231.0,
+          "total_population": 1051703.029621949,
+          "infected": 408850.00425808865,
+          "dead": 58960.72163355475,
+          "gdp": 37.04542371336629,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 232.0,
+          "total_population": 1081607.7238899937,
+          "infected": 418904.5675402844,
+          "dead": 60230.88644980276,
+          "gdp": 37.79556548350396,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 233.0,
+          "total_population": 1116277.096599446,
+          "infected": 434682.5160334588,
+          "dead": 62325.56545776947,
+          "gdp": 38.535656681270666,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 234.0,
+          "total_population": 1149334.2940650955,
+          "infected": 447031.4354508537,
+          "dead": 63733.25995984303,
+          "gdp": 39.26497798509901,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 235.0,
+          "total_population": 1185146.2264157382,
+          "infected": 462237.578604922,
+          "dead": 65667.88885714982,
+          "gdp": 39.98289290427806,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 236.0,
+          "total_population": 1219281.4649469794,
+          "infected": 474205.9923593724,
+          "dead": 67696.547040849,
+          "gdp": 40.68884166814836,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 237.0,
+          "total_population": 1254444.5950637776,
+          "infected": 486535.7618331751,
+          "dead": 69325.21962256763,
+          "gdp": 41.38233550930874,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 238.0,
+          "total_population": 1294574.6618693506,
+          "infected": 504744.6892227722,
+          "dead": 71962.97655806763,
+          "gdp": 42.062951317028464,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 239.0,
+          "total_population": 1340523.3038567714,
+          "infected": 529174.356928782,
+          "dead": 74457.84934981827,
+          "gdp": 42.730326638442136,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 240.0,
+          "total_population": 1384440.0334306152,
+          "infected": 549326.4096170553,
+          "dead": 77315.8234985791,
+          "gdp": 43.38415500640943,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 241.0,
+          "total_population": 1429022.0919527533,
+          "infected": 568607.983166042,
+          "dead": 79187.37770915349,
+          "gdp": 44.02418157415333,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 242.0,
+          "total_population": 1476137.4271798013,
+          "infected": 589858.7760411925,
+          "dead": 81236.2533985237,
+          "gdp": 44.65019903795181,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 243.0,
+          "total_population": 1516437.6161158588,
+          "infected": 600674.1057567401,
+          "dead": 83092.87901067451,
+          "gdp": 45.26204383025318,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 244.0,
+          "total_population": 1563447.3980569504,
+          "infected": 619728.0416013487,
+          "dead": 85911.30586437894,
+          "gdp": 45.859592566618495,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 245.0,
+          "total_population": 1601386.1907645664,
+          "infected": 625863.3127108277,
+          "dead": 89512.43905567506,
+          "gdp": 46.44275873086883,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 246.0,
+          "total_population": 1643268.587086318,
+          "infected": 636270.6442734766,
+          "dead": 91725.54880145784,
+          "gdp": 47.011489583733635,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 247.0,
+          "total_population": 1693634.2247427884,
+          "infected": 657239.0501954431,
+          "dead": 94859.01558331585,
+          "gdp": 47.56576328116295,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 248.0,
+          "total_population": 1749050.6521091363,
+          "infected": 683472.1098326973,
+          "dead": 98646.84915576584,
+          "gdp": 48.10558618928303,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 249.0,
+          "total_population": 1799756.8109926581,
+          "infected": 701256.7410448958,
+          "dead": 100930.8492386651,
+          "gdp": 48.63099038374472,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 250.0,
+          "total_population": 1856786.9180594212,
+          "infected": 725945.3910290484,
+          "dead": 103058.69474099668,
+          "gdp": 49.14203132194003,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 251.0,
+          "total_population": 1917535.8809183491,
+          "infected": 753932.8291227776,
+          "dead": 105945.60293822974,
+          "gdp": 49.63878567724678,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 252.0,
+          "total_population": 1983841.5227760086,
+          "infected": 787052.9705329807,
+          "dead": 108526.12523943695,
+          "gdp": 50.1213493251055,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 253.0,
+          "total_population": 2034882.1175968158,
+          "infected": 798373.5470978548,
+          "dead": 112476.48750145434,
+          "gdp": 50.58983547134151,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 254.0,
+          "total_population": 2087782.8188572996,
+          "infected": 811055.4701346578,
+          "dead": 115599.63742511653,
+          "gdp": 51.044372913717034,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 255.0,
+          "total_population": 2163603.2346303714,
+          "infected": 853032.5100364012,
+          "dead": 120072.97641804782,
+          "gdp": 51.485104428238614,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 256.0,
+          "total_population": 2221486.077237596,
+          "infected": 868243.5713663707,
+          "dead": 123051.33612804206,
+          "gdp": 51.91218527225322,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 257.0,
+          "total_population": 2297769.4052459956,
+          "infected": 906241.3359261364,
+          "dead": 125870.99227399648,
+          "gdp": 52.32578179684594,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 258.0,
+          "total_population": 2363965.042394067,
+          "infected": 928589.8321376229,
+          "dead": 129287.31624281824,
+          "gdp": 52.72607016150313,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 259.0,
+          "total_population": 2446075.1813317747,
+          "infected": 970239.2123055648,
+          "dead": 133397.64391385546,
+          "gdp": 53.11323514443046,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 260.0,
+          "total_population": 2532959.257817463,
+          "infected": 1014997.9704390271,
+          "dead": 137101.98914447776,
+          "gdp": 53.48746904231538,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 261.0,
+          "total_population": 2601621.487245978,
+          "infected": 1033469.3791019587,
+          "dead": 142800.69229254877,
+          "gdp": 53.84897065370093,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 262.0,
+          "total_population": 2695043.686066663,
+          "infected": 1082739.208195182,
+          "dead": 148264.85016729237,
+          "gdp": 54.19794434049274,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 263.0,
+          "total_population": 2769368.5517601157,
+          "infected": 1103535.257184103,
+          "dead": 153303.16401877682,
+          "gdp": 54.534599162455656,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 264.0,
+          "total_population": 2845085.136179301,
+          "infected": 1124590.82152174,
+          "dead": 158127.24851884678,
+          "gdp": 54.859148079870984,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 265.0,
+          "total_population": 2914645.802357205,
+          "infected": 1136112.9599548285,
+          "dead": 162862.39591026714,
+          "gdp": 55.17180721982193,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 266.0,
+          "total_population": 3001116.0409821654,
+          "infected": 1168380.4018517137,
+          "dead": 166216.7587875356,
+          "gdp": 55.47279520185365,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 267.0,
+          "total_population": 3102023.9610319473,
+          "infected": 1217256.2586346366,
+          "dead": 170051.6407581731,
+          "gdp": 55.76233251901685,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 268.0,
+          "total_population": 3211605.976522118,
+          "infected": 1274440.8213733998,
+          "dead": 175631.41176042272,
+          "gdp": 56.04064097055102,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 269.0,
+          "total_population": 3331588.083907322,
+          "infected": 1340967.1382034046,
+          "dead": 180898.53565604327,
+          "gdp": 56.30794314269574,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 270.0,
+          "total_population": 3442707.428607244,
+          "infected": 1391920.8450954112,
+          "dead": 188502.1383823702,
+          "gdp": 56.56446193433737,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 271.0,
+          "total_population": 3523005.3168266136,
+          "infected": 1398209.6093121043,
+          "dead": 192914.96326328334,
+          "gdp": 56.810420124404004,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 272.0,
+          "total_population": 3624781.9540570546,
+          "infected": 1431878.5258999076,
+          "dead": 197017.3191914451,
+          "gdp": 57.046039978115225,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 273.0,
+          "total_population": 3714332.0173218874,
+          "infected": 1447944.8784228323,
+          "dead": 203442.98938808296,
+          "gdp": 57.27154288937534,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 274.0,
+          "total_population": 3808581.996528798,
+          "infected": 1468582.9246511313,
+          "dead": 208566.66772946605,
+          "gdp": 57.48714905676941,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 275.0,
+          "total_population": 3923423.4947796296,
+          "infected": 1515266.6310161378,
+          "dead": 216192.74616448634,
+          "gdp": 57.69307719078308,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 276.0,
+          "total_population": 4039895.8507226063,
+          "infected": 1560742.572516486,
+          "dead": 223841.12139151018,
+          "gdp": 57.88954425001781,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 277.0,
+          "total_population": 4176726.540935806,
+          "infected": 1629324.0455456912,
+          "dead": 231115.82217019584,
+          "gdp": 58.07676520431573,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 278.0,
+          "total_population": 4299453.096026977,
+          "infected": 1675013.117226696,
+          "dead": 239529.6842496167,
+          "gdp": 58.25495282284177,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 279.0,
+          "total_population": 4459609.2648516325,
+          "infected": 1765646.450149022,
+          "dead": 246440.59877860226,
+          "gdp": 58.424317485296584,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 280.0,
+          "total_population": 4614982.765567334,
+          "infected": 1843961.0059291297,
+          "dead": 254593.3473083055,
+          "gdp": 58.58506701455125,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 281.0,
+          "total_population": 4717243.28541559,
+          "infected": 1847397.7518555764,
+          "dead": 261956.89882932507,
+          "gdp": 58.73740652910625,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 282.0,
+          "total_population": 4892593.680368621,
+          "infected": 1946009.390197574,
+          "dead": 270664.5390413593,
+          "gdp": 58.88153831388084,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 283.0,
+          "total_population": 5043347.642661621,
+          "infected": 2005803.7655484013,
+          "dead": 280045.25062305306,
+          "gdp": 59.01766170793681,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 284.0,
+          "total_population": 5214590.290968783,
+          "infected": 2086853.939451645,
+          "dead": 285730.93327477854,
+          "gdp": 59.14597300783267,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 285.0,
+          "total_population": 5357817.025881859,
+          "infected": 2126495.4812165354,
+          "dead": 294088.2199243742,
+          "gdp": 59.26666538539004,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 286.0,
+          "total_population": 5514697.358870909,
+          "infected": 2181034.69144888,
+          "dead": 302377.17821962386,
+          "gdp": 59.379928818735394,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 287.0,
+          "total_population": 5638017.849636857,
+          "infected": 2189325.1728221974,
+          "dead": 314915.65199394594,
+          "gdp": 59.4859500355558,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 288.0,
+          "total_population": 5845954.9320135405,
+          "infected": 2306092.0612026323,
+          "dead": 324343.29177984496,
+          "gdp": 59.58491246757888,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 289.0,
+          "total_population": 6046361.352255359,
+          "infected": 2405844.0105729243,
+          "dead": 337489.11858965154,
+          "gdp": 59.676996215353604,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 290.0,
+          "total_population": 6221016.204211634,
+          "infected": 2463663.9290235704,
+          "dead": 346202.51976905885,
+          "gdp": 59.762378022471715,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 291.0,
+          "total_population": 6418677.664602782,
+          "infected": 2548497.5896350727,
+          "dead": 359032.868704691,
+          "gdp": 59.84123125842787,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 292.0,
+          "total_population": 6675159.245306956,
+          "infected": 2702260.3690598896,
+          "dead": 366937.7991962561,
+          "gdp": 59.913725909371905,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 293.0,
+          "total_population": 6890415.223055882,
+          "infected": 2792440.0122388997,
+          "dead": 378153.8712509077,
+          "gdp": 59.98002857605827,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 294.0,
+          "total_population": 7156639.176557647,
+          "infected": 2942353.0603482877,
+          "dead": 389091.0277873838,
+          "gdp": 60.04030247834595,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 295.0,
+          "total_population": 7428526.063287828,
+          "infected": 3088809.536285942,
+          "dead": 399660.5350130817,
+          "gdp": 60.09470746564764,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 296.0,
+          "total_population": 7641030.599520635,
+          "infected": 3147512.255154285,
+          "dead": 409912.2296360451,
+          "gdp": 60.14340003276921,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 297.0,
+          "total_population": 7883403.281037582,
+          "infected": 3242659.755986598,
+          "dead": 426194.52043359564,
+          "gdp": 60.18653334062059,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 298.0,
+          "total_population": 8077865.785559263,
+          "infected": 3267616.051334497,
+          "dead": 438771.54593718896,
+          "gdp": 60.224257241315975,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 299.0,
+          "total_population": 8298728.178423301,
+          "infected": 3324614.6229102295,
+          "dead": 449698.4949283095,
+          "gdp": 60.25671830721647,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 300.0,
+          "total_population": 8555767.468699167,
+          "infected": 3425391.620246949,
+          "dead": 463357.849725134,
+          "gdp": 60.284059863500694,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 301.0,
+          "total_population": 8863337.36658917,
+          "infected": 3585800.405209773,
+          "dead": 480818.08595250215,
+          "gdp": 60.30642202387944,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 302.0,
+          "total_population": 9109259.273433482,
+          "infected": 3655529.7711960715,
+          "dead": 501347.9334489791,
+          "gdp": 60.32394172909879,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 303.0,
+          "total_population": 9398761.212505963,
+          "infected": 3774341.055775343,
+          "dead": 513239.44534019864,
+          "gdp": 60.33675278790313,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 304.0,
+          "total_population": 9693785.759540789,
+          "infected": 3893480.246671883,
+          "dead": 530581.0860619673,
+          "gdp": 60.34498592015401,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 305.0,
+          "total_population": 10026928.987097561,
+          "infected": 4054810.1778524043,
+          "dead": 551743.8797277814,
+          "gdp": 60.348768801824264,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 306.0,
+          "total_population": 10405134.210518505,
+          "infected": 4262088.880757741,
+          "dead": 569212.3320764508,
+          "gdp": 60.348226111608604,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 307.0,
+          "total_population": 10680531.263536531,
+          "infected": 4320597.257737167,
+          "dead": 585634.4974511164,
+          "gdp": 60.34347957891199,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 308.0,
+          "total_population": 11058097.680813067,
+          "infected": 4509038.738275714,
+          "dead": 606363.1653053142,
+          "gdp": 60.33464803299616,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 309.0,
+          "total_population": 11439789.714306295,
+          "infected": 4689748.983253728,
+          "dead": 628310.4516681292,
+          "gdp": 60.321847453082384,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 310.0,
+          "total_population": 11787020.221589766,
+          "infected": 4814160.934751752,
+          "dead": 654956.5127950278,
+          "gdp": 60.305191019224814,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 311.0,
+          "total_population": 12163445.100469828,
+          "infected": 4963933.2525527915,
+          "dead": 669250.0703245234,
+          "gdp": 60.28478916378443,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 312.0,
+          "total_population": 12579145.603773627,
+          "infected": 5157842.6851445045,
+          "dead": 696132.8859843039,
+          "gdp": 60.260749623347515,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 313.0,
+          "total_population": 12938780.05493763,
+          "infected": 5265308.864253283,
+          "dead": 723993.6430345327,
+          "gdp": 60.23317749094641,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 314.0,
+          "total_population": 13347234.789731368,
+          "infected": 5427762.483340576,
+          "dead": 749178.3642718145,
+          "gdp": 60.20217526845212,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 315.0,
+          "total_population": 13763294.717932243,
+          "infected": 5587919.950621243,
+          "dead": 772432.8887983923,
+          "gdp": 60.167842919020515,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 316.0,
+          "total_population": 14321217.17903838,
+          "infected": 5920379.317714457,
+          "dead": 793421.7026160645,
+          "gdp": 60.130277919483916,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 317.0,
+          "total_population": 14688011.51644937,
+          "infected": 5980722.517220593,
+          "dead": 814736.2722051981,
+          "gdp": 60.08957531259062,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 318.0,
+          "total_population": 15222389.770227917,
+          "infected": 6255366.935231482,
+          "dead": 838558.1507628512,
+          "gdp": 60.045827759003366,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 319.0,
+          "total_population": 15668833.168341003,
+          "infected": 6395304.644524588,
+          "dead": 859800.6197251286,
+          "gdp": 59.999125588976995,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 320.0,
+          "total_population": 16186825.15658147,
+          "infected": 6620348.20256602,
+          "dead": 888003.6695029336,
+          "gdp": 59.949556853643216,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 321.0,
+          "total_population": 16637469.799810808,
+          "infected": 6739660.379690125,
+          "dead": 909189.37951421,
+          "gdp": 59.89720737583785,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 322.0,
+          "total_population": 17090356.737474497,
+          "infected": 6853126.431365455,
+          "dead": 929579.1101584,
+          "gdp": 59.842160800412834,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 323.0,
+          "total_population": 17628102.872707814,
+          "infected": 7073479.494837128,
+          "dead": 965551.2471455687,
+          "gdp": 59.78449864398152,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 324.0,
+          "total_population": 18038421.597875234,
+          "infected": 7108669.003644544,
+          "dead": 988962.4455517414,
+          "gdp": 59.72430034405188,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 325.0,
+          "total_population": 18732652.582919147,
+          "infected": 7510761.703659455,
+          "dead": 1013475.6256418262,
+          "gdp": 59.66164330750735,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 326.0,
+          "total_population": 19457349.071295813,
+          "infected": 7927725.638163323,
+          "dead": 1051278.752143524,
+          "gdp": 59.59660295840026,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 327.0,
+          "total_population": 19952273.365581896,
+          "infected": 8017337.562165862,
+          "dead": 1092865.743830227,
+          "gdp": 59.529252785027644,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 328.0,
+          "total_population": 20493581.2416417,
+          "infected": 8161335.281926169,
+          "dead": 1136079.3311793825,
+          "gdp": 59.45966438626283,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 329.0,
+          "total_population": 20990834.161383405,
+          "infected": 8231948.5324916085,
+          "dead": 1159868.1938985859,
+          "gdp": 59.387907517120944,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 330.0,
+          "total_population": 21472854.300117075,
+          "infected": 8283871.601731763,
+          "dead": 1204177.8906290813,
+          "gdp": 59.314050133539425,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 331.0,
+          "total_population": 22012077.132152937,
+          "infected": 8400935.745416066,
+          "dead": 1230108.7787568255,
+          "gdp": 59.238158436358376,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 332.0,
+          "total_population": 22796000.742126253,
+          "infected": 8829278.492750626,
+          "dead": 1261137.005623425,
+          "gdp": 59.16029691448845,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 333.0,
+          "total_population": 23422790.169018537,
+          "infected": 9025512.189951444,
+          "dead": 1301369.8738380722,
+          "gdp": 59.080528387256784,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 334.0,
+          "total_population": 23933497.33780573,
+          "infected": 9058625.825679535,
+          "dead": 1347614.857540122,
+          "gdp": 58.998914045923996,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 335.0,
+          "total_population": 24567407.760345764,
+          "infected": 9247409.23977152,
+          "dead": 1386762.4026842613,
+          "gdp": 58.91551349436782,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 336.0,
+          "total_population": 25242496.572715156,
+          "infected": 9475939.674587822,
+          "dead": 1424908.749882493,
+          "gdp": 58.83038478893078,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 337.0,
+          "total_population": 25816281.377333052,
+          "infected": 9558138.2006729,
+          "dead": 1468678.28816204,
+          "gdp": 58.743584477431405,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 338.0,
+          "total_population": 26646805.380701862,
+          "infected": 9967047.24373526,
+          "dead": 1508517.1435626838,
+          "gdp": 58.65516763734027,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 339.0,
+          "total_population": 27453583.0857251,
+          "infected": 10317981.339803347,
+          "dead": 1555366.1709753317,
+          "gdp": 58.56518791312369,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 340.0,
+          "total_population": 28253157.443245165,
+          "infected": 10630926.597663507,
+          "dead": 1590356.0520095685,
+          "gdp": 58.47369755275925,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 341.0,
+          "total_population": 28990059.11394775,
+          "infected": 10847180.989820795,
+          "dead": 1649135.5550090838,
+          "gdp": 58.38074744342891,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 342.0,
+          "total_population": 29833507.010332108,
+          "infected": 11185634.369813947,
+          "dead": 1705033.7765306176,
+          "gdp": 58.28638714639629,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 343.0,
+          "total_population": 30741369.874200277,
+          "infected": 11582654.52582653,
+          "dead": 1757607.1782811487,
+          "gdp": 58.19066493107592,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 344.0,
+          "total_population": 31548918.47507071,
+          "infected": 11823220.043186039,
+          "dead": 1817889.0014937771,
+          "gdp": 58.09362780830331,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 345.0,
+          "total_population": 32638701.980220824,
+          "infected": 12408290.572360426,
+          "dead": 1860780.2398188866,
+          "gdp": 57.99532156281515,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 346.0,
+          "total_population": 33637079.825806186,
+          "infected": 12836344.87414019,
+          "dead": 1915677.8704320716,
+          "gdp": 57.89579078495021,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 347.0,
+          "total_population": 34596713.49648139,
+          "infected": 13188879.457204731,
+          "dead": 1988652.2805075243,
+          "gdp": 57.79507890158153,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 348.0,
+          "total_population": 35755673.95629481,
+          "infected": 13768098.396316608,
+          "dead": 2037428.4927023756,
+          "gdp": 57.69322820629169,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 349.0,
+          "total_population": 36654507.89979676,
+          "infected": 13970429.647789426,
+          "dead": 2095036.827879103,
+          "gdp": 57.59027988880284,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 350.0,
+          "total_population": 37750930.2963856,
+          "infected": 14419576.800606932,
+          "dead": 2167322.1860480113,
+          "gdp": 57.48627406367401,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 351.0,
+          "total_population": 38758573.00957227,
+          "infected": 14718835.272971032,
+          "dead": 2231630.47641537,
+          "gdp": 57.38124979827841,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 352.0,
+          "total_population": 39813741.52162324,
+          "infected": 15065056.414680567,
+          "dead": 2317787.872829442,
+          "gdp": 57.27524514007369,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 353.0,
+          "total_population": 40934396.63892062,
+          "infected": 15466842.883132033,
+          "dead": 2387821.342517173,
+          "gdp": 57.16829714317833,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 354.0,
+          "total_population": 42154932.90472269,
+          "infected": 15966275.973803058,
+          "dead": 2446188.6662630015,
+          "gdp": 57.06044189426773,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 355.0,
+          "total_population": 43591018.22576488,
+          "infected": 16717919.416609405,
+          "dead": 2530123.788856913,
+          "gdp": 56.95171453780345,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 356.0,
+          "total_population": 44904087.85996638,
+          "infected": 17246144.122883886,
+          "dead": 2581360.6186908353,
+          "gdp": 56.84214930060926,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 357.0,
+          "total_population": 45968250.82854275,
+          "infected": 17418223.568470746,
+          "dead": 2649810.0781623977,
+          "gdp": 56.73177951580775,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 358.0,
+          "total_population": 47077752.39028006,
+          "infected": 17634080.05096517,
+          "dead": 2708687.061377693,
+          "gdp": 56.620637646131314,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 359.0,
+          "total_population": 48592423.237286806,
+          "infected": 18366602.877108682,
+          "dead": 2785445.835248784,
+          "gdp": 56.50875530662098,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 360.0,
+          "total_population": 49802010.29080194,
+          "infected": 18657159.897383563,
+          "dead": 2885425.394048953,
+          "gdp": 56.39616328672713,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 361.0,
+          "total_population": 51317210.64380115,
+          "infected": 19320162.139847,
+          "dead": 2971744.8645429225,
+          "gdp": 56.28289157182549,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 362.0,
+          "total_population": 52913675.43524456,
+          "infected": 20036847.581571456,
+          "dead": 3042720.111657111,
+          "gdp": 56.168969364162045,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 363.0,
+          "total_population": 54567077.33964172,
+          "infected": 20784524.109808423,
+          "dead": 3140910.877508763,
+          "gdp": 56.05442510324036,
+          "resources_spent": 0.0
+        },
+        {
+          "step": 364.0,
+          "total_population": 56274589.43375646,
+          "infected": 21543959.431592792,
+          "dead": 3221838.370400362,
+          "gdp": 55.939286485664454,
+          "resources_spent": 0.0
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-03-30T15:51:34.744759",
+  "is_official": false
+}

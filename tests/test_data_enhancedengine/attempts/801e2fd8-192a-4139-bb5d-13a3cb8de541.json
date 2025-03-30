@@ -1,0 +1,41 @@
+{
+  "id": "801e2fd8-192a-4139-bb5d-13a3cb8de541",
+  "player_id": "553cb60c-5fee-4457-9096-90043c3fca43",
+  "player_name": "Test Player (EnhancedEngine)",
+  "scenario_id": "challenging",
+  "results": {
+    "player_id": "553cb60c-5fee-4457-9096-90043c3fca43",
+    "scenario_id": "challenging",
+    "total_steps": 1,
+    "population_survived": 0.9990233443137683,
+    "gdp_preserved": 0.5,
+    "infection_control": 0.9493032161407267,
+    "resource_efficiency": 0.9741632802272475,
+    "time_to_containment": 0.0,
+    "final_score": 0.7357,
+    "metadata": {},
+    "raw_metrics": {
+      "initial_population": 9990.242972394175,
+      "final_population": 9990.242972394175,
+      "dead_population": 9.757027605824337,
+      "initial_gdp": 838.188631855137,
+      "final_gdp": 838.188631855137,
+      "max_infection_rate": 0.0506967838592734,
+      "total_resources_spent": 0,
+      "containment_step": 0,
+      "total_steps": 1,
+      "metrics_history": [
+        {
+          "step": 11.0,
+          "total_population": 9990.242972394175,
+          "infected": 506.4731886730925,
+          "dead": 9.757027605824337,
+          "gdp": 838.188631855137,
+          "resources_spent": 0.0
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-03-30T13:38:18.274089",
+  "is_official": false
+}

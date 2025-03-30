@@ -1,0 +1,126 @@
+{
+  "Extreme Lockdown": {
+    "name": "Extreme Lockdown",
+    "score": 0.0,
+    "grade": "F",
+    "population_survived": 0.0,
+    "gdp_preserved": 0.0008365954476661999,
+    "infection_control": 0.0,
+    "resource_efficiency": 0.04354666666666667,
+    "time_to_containment": 0.0,
+    "variant_control": 0.2307755639631925,
+    "performance_metrics": {
+      "baseline": 0.4,
+      "curve_factor": 1.5,
+      "infection_control_rating": 0,
+      "economic_rating": 0.0008365954476661999,
+      "population_rating": 0,
+      "multi_objective_score": 0.0,
+      "strategy_variance": -0.017116980136313686
+    },
+    "raw_data": {
+      "susceptible": 0,
+      "infected": 4649760.457607839,
+      "recovered": 8295815.37937316,
+      "deaths": 535916.4302278089,
+      "total_population": 12945575.836980999,
+      "initial_population": 10000,
+      "current_gdp": 0.8365954476661999,
+      "initial_gdp": 1000,
+      "research_progress": 1.0
+    }
+  },
+  "Economy Focused": {
+    "name": "Economy Focused",
+    "score": 0.0,
+    "grade": "F",
+    "population_survived": 0.0,
+    "gdp_preserved": 0.030836660858734564,
+    "infection_control": 0.0,
+    "resource_efficiency": 0.025391743094445796,
+    "time_to_containment": 0.0,
+    "variant_control": 0.23096188490766542,
+    "performance_metrics": {
+      "baseline": 0.4,
+      "curve_factor": 1.5,
+      "infection_control_rating": 0,
+      "economic_rating": 0.030836660858734564,
+      "population_rating": 0,
+      "multi_objective_score": 0.0,
+      "strategy_variance": -0.015883803399125217
+    },
+    "raw_data": {
+      "susceptible": 0,
+      "infected": 1974416.2807990229,
+      "recovered": 3527507.3324910495,
+      "deaths": 234114.29408702507,
+      "total_population": 5501923.613290072,
+      "initial_population": 10000,
+      "current_gdp": 30.836660858734565,
+      "initial_gdp": 1000,
+      "research_progress": 1.0
+    }
+  },
+  "Balanced Approach": {
+    "name": "Balanced Approach",
+    "score": 0.005969269404261356,
+    "grade": "F",
+    "population_survived": 0.0,
+    "gdp_preserved": 0.002611176100456872,
+    "infection_control": 0.0,
+    "resource_efficiency": 0.04311035525321239,
+    "time_to_containment": 0.0,
+    "variant_control": 0.23084674867614446,
+    "performance_metrics": {
+      "baseline": 0.4,
+      "curve_factor": 1.5,
+      "infection_control_rating": 0,
+      "economic_rating": 0.002611176100456872,
+      "population_rating": 0,
+      "multi_objective_score": 0.0,
+      "strategy_variance": 0.005969269404261356
+    },
+    "raw_data": {
+      "susceptible": 0,
+      "infected": 21199228.73876712,
+      "recovered": 37757744.22020796,
+      "deaths": 2470223.5695690108,
+      "total_population": 58956972.95897508,
+      "initial_population": 10000,
+      "current_gdp": 2.611176100456872,
+      "initial_gdp": 1000,
+      "research_progress": 1.0
+    }
+  },
+  "Research Priority": {
+    "name": "Research Priority",
+    "score": 0.5329689027820943,
+    "grade": "C",
+    "population_survived": 1.0,
+    "gdp_preserved": 0.5987264950293564,
+    "infection_control": 0.0,
+    "resource_efficiency": 0.04349380880208184,
+    "time_to_containment": 0.49589041095890407,
+    "variant_control": 0.2681127267890599,
+    "performance_metrics": {
+      "baseline": 0.4,
+      "curve_factor": 1.5,
+      "infection_control_rating": 0,
+      "economic_rating": 0.5987264950293564,
+      "population_rating": 1,
+      "multi_objective_score": 0.2579247295518073,
+      "strategy_variance": 0.006089937559166755
+    },
+    "raw_data": {
+      "susceptible": 0,
+      "infected": 0,
+      "recovered": Infinity,
+      "deaths": 0,
+      "total_population": Infinity,
+      "initial_population": 10000,
+      "current_gdp": 598.7264950293563,
+      "initial_gdp": 1000,
+      "research_progress": 1.0
+    }
+  }
+}

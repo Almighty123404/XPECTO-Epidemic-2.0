@@ -1,0 +1,39 @@
+[build-system]
+requires = ["flit_core>=3.4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name =  "mirage"
+dynamic = ["version"]
+authors = [
+    {name = "Aditya Prakash", email = "adityaprakash.work@gmail.com"},
+    {name = "Uthamkumar", email = "uthamkumarmahesh@gmail.com"},
+]
+description = "Mirage: Python package for creating simulation frameworks."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+
+dependencies = [
+    "pydantic >= 2.6.0",
+    "tensorboard >= 2.16.0",
+    "tensorboardX >= 2.6.0",
+]
+
+
+[project.urls]
+Source = "https://github.com/Kamand-Bioengineering-Group/mirage"
+Tracker = "https://github.com/Kamand-Bioengineering-Group/mirage/issues"
+
+[tool.flit.module]
+name = "mirage"

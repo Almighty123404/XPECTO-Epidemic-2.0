@@ -1,0 +1,74 @@
+[
+  {
+    "rank": 1,
+    "player_id": "3b4e0400-d494-4d55-959b-ef77399bfbad",
+    "player_name": "Your Name",
+    "standard_score": 0.6451,
+    "challenging_score": 0.6451,
+    "average_score": 0.6451,
+    "timestamps": {
+      "standard": "2025-03-29T14:58:35.259376",
+      "challenging": "2025-03-29T14:58:35.480248"
+    }
+  },
+  {
+    "rank": 2,
+    "player_id": "db75ef72-e1bb-46cc-8420-200f483a6269",
+    "player_name": "Your Name",
+    "standard_score": 0.6451,
+    "challenging_score": 0.6451,
+    "average_score": 0.6451,
+    "timestamps": {
+      "standard": "2025-03-29T11:20:19.239009",
+      "challenging": "2025-03-29T11:20:19.258661"
+    }
+  },
+  {
+    "rank": 3,
+    "player_id": "922eba71-21a3-4418-ab31-bc53d7131782",
+    "player_name": "Your Name",
+    "standard_score": 0.6451,
+    "challenging_score": 0.6451,
+    "average_score": 0.6451,
+    "timestamps": {
+      "standard": "2025-03-29T15:13:36.233094",
+      "challenging": "2025-03-29T15:13:36.516477"
+    }
+  },
+  {
+    "rank": 4,
+    "player_id": "32e40b22-ac19-41df-9d2d-418ed65a9ff3",
+    "player_name": "Your Name",
+    "standard_score": 0.6451,
+    "challenging_score": 0.6451,
+    "average_score": 0.6451,
+    "timestamps": {
+      "standard": "2025-03-29T14:58:33.742274",
+      "challenging": "2025-03-29T14:58:33.898227"
+    }
+  },
+  {
+    "rank": 5,
+    "player_id": "4aa33f88-3ea4-4594-8857-60fb425a01aa",
+    "player_name": "Your Name",
+    "standard_score": 0.5861,
+    "challenging_score": 0.5861,
+    "average_score": 0.5861,
+    "timestamps": {
+      "standard": "2025-03-29T23:49:26.092480",
+      "challenging": "2025-03-29T23:49:26.631404"
+    }
+  },
+  {
+    "rank": 6,
+    "player_id": "e27619ea-29bb-432b-ac53-1b9fd4f79087",
+    "player_name": "Your Name",
+    "standard_score": 0.5858,
+    "challenging_score": 0.5858,
+    "average_score": 0.5858,
+    "timestamps": {
+      "standard": "2025-03-29T23:54:25.869353",
+      "challenging": "2025-03-29T23:54:26.579328"
+    }
+  }
+]

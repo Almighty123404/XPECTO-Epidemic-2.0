@@ -1,0 +1,15 @@
+{
+  "id": "7c06c572-7c03-48c2-9e0f-f125da1e8a8a",
+  "player_id": "363d3e72-2502-4316-8cec-0cb2544303a7",
+  "scenario_id": "2dc83845-0d0f-4f24-b4ae-8fc16b858157",
+  "timestamp": "2025-03-29T14:39:36.108338",
+  "is_practice": false,
+  "result": {
+    "population_survived": 0.9679,
+    "gdp_preserved": 0.5114885114885115,
+    "infection_control": 0.9846,
+    "resource_efficiency": 0.0,
+    "time_to_containment": 0.0,
+    "final_score": 0.5895877022977023
+  }
+}

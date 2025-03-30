@@ -1,0 +1,41 @@
+{
+  "id": "436edc04-ed8b-412f-bc15-026048924db2",
+  "player_id": "b52a30f2-84ed-42e2-87eb-4430aac6e757",
+  "player_name": "Your Name",
+  "scenario_id": "standard",
+  "results": {
+    "player_id": "b52a30f2-84ed-42e2-87eb-4430aac6e757",
+    "scenario_id": "standard",
+    "total_steps": 1,
+    "population_survived": 0.9483495660370651,
+    "gdp_preserved": 0.5,
+    "infection_control": 0.9921785276839434,
+    "resource_efficiency": 0.9702640468605043,
+    "time_to_containment": 0.0,
+    "final_score": 0.7285,
+    "metadata": {},
+    "raw_metrics": {
+      "initial_population": 9508.863094666349,
+      "final_population": 9508.863094666349,
+      "dead_population": 491.13690533365224,
+      "initial_gdp": 255.00689247784848,
+      "final_gdp": 255.00689247784848,
+      "max_infection_rate": 0.007821472316056616,
+      "total_resources_spent": 0,
+      "containment_step": 0,
+      "total_steps": 1,
+      "metrics_history": [
+        {
+          "step": 102.0,
+          "total_population": 9508.863094666349,
+          "infected": 74.37330945210529,
+          "dead": 491.13690533365224,
+          "gdp": 255.00689247784848,
+          "resources_spent": 0.0
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-03-30T13:42:11.736129",
+  "is_official": false
+}

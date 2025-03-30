@@ -1,0 +1,18 @@
+{
+  "id": "standard",
+  "name": "Standard Outbreak",
+  "description": "A standard epidemic outbreak scenario with normal parameters.",
+  "seed": "standard_2023",
+  "r0": 2.5,
+  "initial_infections": {
+    "capital": 100
+  },
+  "initial_resources": 1000,
+  "difficulty": "standard",
+  "parameters": {
+    "disease_mortality": 0.02,
+    "treatment_effectiveness": 0.7,
+    "vaccine_development_time": 120,
+    "economic_impact_factor": 1.0
+  }
+}

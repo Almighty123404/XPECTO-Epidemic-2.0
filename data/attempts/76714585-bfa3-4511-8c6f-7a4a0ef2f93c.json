@@ -1,0 +1,2953 @@
+{
+  "id": "76714585-bfa3-4511-8c6f-7a4a0ef2f93c",
+  "player_id": "90f90eba-50b4-4427-a695-4e621e91eb04",
+  "player_name": "test_player",
+  "scenario_id": "standard",
+  "results": {
+    "player_id": "90f90eba-50b4-4427-a695-4e621e91eb04",
+    "scenario_id": "standard",
+    "total_steps": 365,
+    "population_survived": 0.9995,
+    "gdp_preserved": 0.0,
+    "infection_control": 1.0,
+    "resource_efficiency": 0.5868873139229833,
+    "time_to_containment": 0.0,
+    "final_score": 0.5879,
+    "metadata": {},
+    "raw_metrics": {
+      "initial_population": 10000,
+      "final_population": 10000,
+      "dead_population": 5,
+      "initial_gdp": 0,
+      "final_gdp": 0,
+      "max_infection_rate": 0.0,
+      "total_resources_spent": 5000,
+      "containment_step": 0,
+      "total_steps": 365,
+      "metrics_history": [
+        {
+          "step": 5111.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5112.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5113.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5114.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5115.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5116.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5117.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5118.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5119.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5120.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5121.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5122.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5123.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5124.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5125.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5126.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5127.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5128.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5129.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5130.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5131.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5132.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5133.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5134.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5135.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5136.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5137.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5138.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5139.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5140.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5141.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5142.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5143.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5144.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5145.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5146.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5147.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5148.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5149.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5150.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5151.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5152.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5153.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5154.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5155.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5156.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5157.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5158.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5159.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5160.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5161.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5162.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5163.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5164.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5165.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5166.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5167.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5168.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5169.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5170.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5171.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5172.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5173.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5174.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5175.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5176.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5177.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5178.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5179.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5180.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5181.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5182.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5183.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5184.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5185.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5186.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5187.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5188.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5189.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5190.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5191.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5192.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5193.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5194.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5195.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5196.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5197.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5198.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5199.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5200.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5201.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5202.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5203.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5204.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5205.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5206.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5207.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5208.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5209.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5210.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5211.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5212.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5213.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5214.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5215.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5216.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5217.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5218.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5219.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5220.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5221.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5222.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5223.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5224.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5225.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5226.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5227.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5228.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5229.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5230.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5231.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5232.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5233.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5234.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5235.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5236.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5237.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5238.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5239.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5240.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5241.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5242.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5243.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5244.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5245.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5246.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5247.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5248.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5249.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5250.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5251.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5252.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5253.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5254.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5255.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5256.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5257.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5258.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5259.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5260.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5261.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5262.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5263.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5264.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5265.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5266.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5267.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5268.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5269.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5270.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5271.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5272.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5273.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5274.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5275.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5276.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5277.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5278.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5279.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5280.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5281.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5282.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5283.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5284.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5285.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5286.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5287.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5288.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5289.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5290.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5291.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5292.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5293.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5294.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5295.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5296.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5297.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5298.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5299.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5300.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5301.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5302.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5303.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5304.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5305.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5306.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5307.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5308.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5309.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5310.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5311.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5312.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5313.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5314.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5315.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5316.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5317.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5318.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5319.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5320.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5321.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5322.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5323.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5324.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5325.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5326.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5327.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5328.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5329.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5330.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5331.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5332.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5333.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5334.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5335.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5336.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5337.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5338.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5339.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5340.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5341.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5342.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5343.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5344.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5345.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5346.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5347.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5348.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5349.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5350.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5351.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5352.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5353.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5354.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5355.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5356.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5357.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5358.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5359.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5360.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5361.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5362.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5363.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5364.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5365.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5366.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5367.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5368.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5369.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5370.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5371.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5372.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5373.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5374.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5375.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5376.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5377.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5378.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5379.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5380.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5381.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5382.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5383.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5384.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5385.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5386.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5387.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5388.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5389.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5390.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5391.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5392.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5393.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5394.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5395.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5396.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5397.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5398.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5399.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5400.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5401.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5402.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5403.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5404.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5405.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5406.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5407.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5408.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5409.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5410.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5411.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5412.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5413.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5414.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5415.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5416.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5417.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5418.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5419.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5420.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5421.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5422.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5423.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5424.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5425.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5426.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5427.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5428.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5429.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5430.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5431.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5432.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5433.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5434.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5435.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5436.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5437.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5438.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5439.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5440.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5441.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5442.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5443.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5444.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5445.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5446.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5447.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5448.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5449.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5450.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5451.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5452.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5453.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5454.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5455.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5456.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5457.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5458.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5459.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5460.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5461.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5462.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5463.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5464.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5465.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5466.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5467.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5468.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5469.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5470.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5471.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5472.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5473.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5474.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        },
+        {
+          "step": 5475.0,
+          "total_population": 10000.0,
+          "infected": 0.0,
+          "dead": 5.0,
+          "gdp": 0.0,
+          "resources_spent": 5000.0
+        }
+      ]
+    }
+  },
+  "timestamp": "2025-03-30T02:51:06.619708",
+  "is_official": false
+}
