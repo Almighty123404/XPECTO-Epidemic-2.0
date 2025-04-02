@@ -8,12 +8,24 @@ import time
 import shutil
 import tempfile
 import logging
-import fcntl
+import platform
+if platform.system() == "Windows":
+    import msvcrt
+else:
+    import fcntl
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional, Any, Type, TypeVar, cast
 import threading
 import uuid
+
+# Define a cross-platform file locking function
+if platform.system() == "Windows":
+    def lock_file(file):
+        msvcrt.locking(file.fileno(), msvcrt.LK_LOCK, 1)
+else:
+    def lock_file(file):
+        fcntl.flock(file, fcntl.LOCK_EX)
 
 from ..core.models import Player, PlayerAttempt, Scenario, SimulationResults, LeaderboardEntry
 from .storage import StorageProvider, LocalStorageProvider
@@ -121,7 +133,6 @@ class EnhancedLocalStorageProvider(LocalStorageProvider):
         lock = self.locks[str(file_path)]
         lock.acquire()
         
-        # Also use file system lock for multi-process safety
         try:
             # Make parent directories if they don't exist
             file_path.parent.mkdir(parents=True, exist_ok=True)
@@ -133,10 +144,9 @@ class EnhancedLocalStorageProvider(LocalStorageProvider):
                     
             # Open file for locking
             file_handle = open(file_path, 'r+')
-            fcntl.flock(file_handle, fcntl.LOCK_EX)
+            lock_file(file_handle)  # Use the cross-platform lock_file function
             return file_handle
         except Exception as e:
-            # Release the threading lock if file locking fails
             lock.release()
             logger.error(f"Failed to acquire lock on {file_path}: {e}")
             raise
@@ -151,7 +161,10 @@ class EnhancedLocalStorageProvider(LocalStorageProvider):
         """
         try:
             # Release file system lock
-            fcntl.flock(file_handle, fcntl.LOCK_UN)
+            if platform.system() == "Windows":
+                msvcrt.locking(file_handle.fileno(), msvcrt.LK_UNLCK, 1)
+            else:
+                fcntl.flock(file_handle, fcntl.LOCK_UN)
             file_handle.close()
         except Exception as e:
             logger.error(f"Error releasing file lock: {e}")
@@ -634,4 +647,4 @@ class EnhancedLocalStorageProvider(LocalStorageProvider):
             except Exception as e:
                 logger.error(f"Error loading scenario {file_path}: {e}")
                 
-        return scenarios 
+        return scenarios
